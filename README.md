@@ -18,9 +18,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,161b22&height=2&section=header" width="100%"/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20About%20Me&fontSize=26&fontColor=00c896&fontAlignY=65&descAlignY=80" width="100%"/>
+## ![about](https://img.shields.io/badge/▎%20About%20Me-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -60,7 +60,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Tech%20Stack&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![tech](https://img.shields.io/badge/▎%20Tech%20Stack-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 **<img src="https://img.shields.io/badge/Languages-161b22?style=flat-square&logo=code&logoColor=00c896" height="20"/>**
 
@@ -102,7 +102,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20GitHub%20Stats&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![stats](https://img.shields.io/badge/▎%20GitHub%20Stats-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
   <a href="https://github.com/SATHISH-WEBDEVBER">
@@ -115,7 +115,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Streak%20Stats&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![streak](https://img.shields.io/badge/▎%20Streak%20Stats-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SATHISH-WEBDEVBER&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=a0aec0&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
@@ -123,7 +123,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Activity%20Graph&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![graph](https://img.shields.io/badge/▎%20Activity%20Graph-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SATHISH-WEBDEVBER&theme=tokyo-night&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true" />
@@ -131,7 +131,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Skills%20%26%20Tools&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![skills](https://img.shields.io/badge/▎%20Skills%20%26%20Tools-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,aws,git,github,gitlab,vscode,vercel&theme=dark&perline=8" />
@@ -139,7 +139,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Work%20Experience&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![work](https://img.shields.io/badge/▎%20Work%20Experience-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <details>
   <summary><b><img src="https://img.shields.io/badge/Crescent%20Infotech-Software%20Developer%20Intern-00c896?style=flat-square&logo=building2&logoColor=white" />&nbsp; Dec 2025 – Mar 2026 &nbsp;|&nbsp; Erode, Tamil Nadu</b></summary>
@@ -169,7 +169,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Featured%20Projects&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![projects](https://img.shields.io/badge/▎%20Featured%20Projects-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
 
@@ -183,7 +183,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Achievements&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![achieve](https://img.shields.io/badge/▎%20Achievements-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
 
@@ -198,7 +198,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Education&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![edu](https://img.shields.io/badge/▎%20Education-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
 
@@ -211,7 +211,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Currently%20Learning&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![learn](https://img.shields.io/badge/▎%20Currently%20Learning-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 ```
 TypeScript          ->  Strict typing, Interfaces, Generics
@@ -223,7 +223,7 @@ CI/CD Pipelines     ->  GitHub Actions, Automated Deployment Workflows
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Connect%20With%20Me&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+## ![connect](https://img.shields.io/badge/▎%20Connect%20With%20Me-00c896?style=for-the-badge&labelColor=0d1117&color=00c896)
 
 <div align="center">
 
