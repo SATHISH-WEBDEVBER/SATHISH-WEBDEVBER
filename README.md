@@ -131,10 +131,10 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Trophy%20Wall&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,161b22,0d1117&height=52&text=%20%20Skills%20%26%20Tools&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SATHISH-WEBDEVBER&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,aws,git,github,gitlab,vscode,vercel&theme=dark&perline=8" />
 </div>
 
 ---
