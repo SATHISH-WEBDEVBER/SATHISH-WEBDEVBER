@@ -137,7 +137,7 @@ const sathish = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=52&text=%20%20Skills%20%26%20Tools&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=52&text=Skills%20and%20Tools&fontSize=26&fontColor=00c896&fontAlignY=65" width="100%"/>
 
 <br/>
 
