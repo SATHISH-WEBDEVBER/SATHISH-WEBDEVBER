@@ -27,7 +27,7 @@
 ```javascript
 const sathish = {
   name             : "Sathish S",
-  location         : "Coimbatore, Tamil Nadu, India",
+  location         : "Namakkal, Tamil Nadu, India",
   email            : "sathishms1589@gmail.com",
   portfolio        : "sathishmsdev.vercel.app",
 
