@@ -24,41 +24,37 @@
 
 <br/>
 
-<div align="center">
-
 ```javascript
 const sathish = {
-  name        : "Sathish S",
-  location    : "Coimbatore, Tamil Nadu, India",
-  email       : "sathishms1589@gmail.com",
-  portfolio   : "sathishmsdev.vercel.app",
+  name             : "Sathish S",
+  location         : "Coimbatore, Tamil Nadu, India",
+  email            : "sathishms1589@gmail.com",
+  portfolio        : "sathishmsdev.vercel.app",
 
-  education   : {
-    degree    : "B.Tech – Information Technology",
-    college   : "SSM College of Engineering, Namakkal",
-    year      : "2022 – 2026",
-    cgpa      : 7.94,
+  education        : {
+    degree         : "B.Tech – Information Technology",
+    college        : "SSM College of Engineering, Namakkal",
+    year           : "2022 – 2026",
+    cgpa           : 7.94,
   },
 
-  stack       : [
+  stack            : [
     "React.js", "Next.js", "Node.js",
     "Express.js", "MongoDB", "MySQL",
     "Tailwind CSS", "JWT", "REST APIs",
   ],
 
-  currentlyLearning : [
+  currentlyLearning: [
     "TypeScript",
     "System Design & Distributed Systems",
     "AWS Cloud Practitioner",
     "Docker & CI/CD Pipelines",
   ],
 
-  funFact  : "I turn caffeine into REST APIs",
-  motto    : () => "Ship it, improve it, repeat.",
+  funFact          : "I turn caffeine into REST APIs",
+  motto            : () => "Ship it, improve it, repeat.",
 };
 ```
-
-</div>
 
 ---
 
