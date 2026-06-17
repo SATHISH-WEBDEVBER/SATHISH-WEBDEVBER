@@ -40,12 +40,14 @@ const sathish = {
 
   stack            : [
     "React.js", "Next.js", "Node.js",
+    "JavaScript", "TypeScript",
     "Express.js", "MongoDB", "MySQL",
     "Tailwind CSS", "JWT", "REST APIs",
   ],
 
   currentlyLearning: [
-    "TypeScript",
+    "Testing – Jest (unit & integration tests)",
+    "Linting – ESLint & Prettier (code quality)",
     "System Design & Distributed Systems",
     "AWS Cloud Practitioner",
     "Docker & CI/CD Pipelines",
@@ -65,6 +67,7 @@ const sathish = {
 **<img src="https://img.shields.io/badge/Languages-161b22?style=flat-square&logo=code&logoColor=00c896" height="20"/>**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **<img src="https://img.shields.io/badge/Frontend-161b22?style=flat-square&logo=react&logoColor=00c896" height="20"/>**
@@ -99,6 +102,12 @@ const sathish = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**<img src="https://img.shields.io/badge/Testing%20%26%20Linting-161b22?style=flat-square&logo=jest&logoColor=00c896" height="20"/>**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
 ---
 
@@ -142,7 +151,7 @@ const sathish = {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,aws,git,github,gitlab,vscode,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,aws,git,github,gitlab,vscode,vercel,jest,eslint&theme=dark&perline=8" />
 </div>
 
 ---
@@ -235,6 +244,8 @@ const sathish = {
 
 ```
 TypeScript          ->  Strict typing, Interfaces, Generics
+Jest                ->  Unit tests, Integration tests, Mocking
+ESLint & Prettier   ->  Code quality, Formatting, Style rules
 AWS                 ->  EC2, S3, Lambda, Cloud Practitioner Cert
 Docker              ->  Containerisation, Docker Compose, Volumes
 System Design       ->  Distributed Systems, Caching, Load Balancing
