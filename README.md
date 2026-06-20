@@ -35,7 +35,7 @@ const sathish = {
     degree         : "B.Tech – Information Technology",
     college        : "SSM College of Engineering, Namakkal",
     year           : "2022 – 2026",
-    cgpa           : 7.96,
+    cgpa           : 7.97,
   },
 
   stack            : [
