@@ -30,6 +30,7 @@ const sathish = {
   location         : "Namakkal, Tamil Nadu, India",
   email            : "sathishms1589@gmail.com",
   portfolio        : "sathishmsdev.vercel.app",
+  LinkedIn         : "linkedin.com/in/sathishs07"
 
   education        : {
     degree         : "B.Tech – Information Technology",
